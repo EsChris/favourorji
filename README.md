@@ -1,3 +1,0 @@
-#Favour
-
-Some text here
